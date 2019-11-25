@@ -73,6 +73,7 @@ header nav button {
     outline: none;
     border-radius:0 13px 13px 0;
     height: 28px;
+    cursor: pointer;
 }
 header nav button:hover {
     transform: translateY(0);
