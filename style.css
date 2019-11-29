@@ -695,6 +695,7 @@ header nav button:hover {
     font: 500 .9em var(--fontMono);
     color: #777777;
     padding-left: 14px;
+    resize: none;
 }
 
 .about form button {
